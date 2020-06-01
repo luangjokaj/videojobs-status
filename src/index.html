@@ -1,0 +1,17 @@
+@@include('./includes/helmet.html', {
+	"title": "VJ Status",
+	"description": "Monitoring and live status for VideoJobs",
+	"headerJS": "header-bundle.js",
+	"socials": {
+		"title": "VJ Status",
+		"thumbnail": "https://videojobs.s3-eu-west-1.amazonaws.com/meta/preview.png",
+		"url": "https://status.videojobs.ch",
+	}
+})
+
+	@@include('./includes/header.html')
+	@@include('./includes/content.html')
+
+@@include('./includes/footer.html', {
+	"footerJS": "footer-bundle.js"
+})

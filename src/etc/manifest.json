@@ -1,0 +1,83 @@
+{
+	"name": "VJ Status",
+	"short_name": "VJ Status",
+	"description": "Explore companies, listen to their story, discover products and learn about their activity.",
+	"icons": [
+		{
+			"src": "https://videojobs.s3-eu-west-1.amazonaws.com/meta/icon_20.png",
+			"sizes": "20x20",
+			"type": "image/png"
+		},
+		{
+			"src": "https://videojobs.s3-eu-west-1.amazonaws.com/meta/icon_29.png",
+			"sizes": "29x29",
+			"type": "image/png"
+		},
+		{
+			"src": "https://videojobs.s3-eu-west-1.amazonaws.com/meta/icon_40.png",
+			"sizes": "40x40",
+			"type": "image/png"
+		},
+		{
+			"src": "https://videojobs.s3-eu-west-1.amazonaws.com/meta/icon_59.png",
+			"sizes": "59x59",
+			"type": "image/png"
+		},
+		{
+			"src": "https://videojobs.s3-eu-west-1.amazonaws.com/meta/icon_60.png",
+			"sizes": "60x60",
+			"type": "image/png"
+		},
+		{
+			"src": "https://videojobs.s3-eu-west-1.amazonaws.com/meta/icon_76.png",
+			"sizes": "76x76",
+			"type": "image/png"
+		},
+		{
+			"src": "https://videojobs.s3-eu-west-1.amazonaws.com/meta/icon_87.png",
+			"sizes": "87x87",
+			"type": "image/png"
+		},
+		{
+			"src": "https://videojobs.s3-eu-west-1.amazonaws.com/meta/icon_90.png",
+			"sizes": "90x90",
+			"type": "image/png"
+		},
+		{
+			"src": "https://videojobs.s3-eu-west-1.amazonaws.com/meta/icon_120.png",
+			"sizes": "120x120",
+			"type": "image/png"
+		},
+		{
+			"src": "https://videojobs.s3-eu-west-1.amazonaws.com/meta/icon_152.png",
+			"sizes": "152x152",
+			"type": "image/png"
+		},
+		{
+			"src": "https://videojobs.s3-eu-west-1.amazonaws.com/meta/icon_167.png",
+			"sizes": "167x167",
+			"type": "image/png"
+		},
+		{
+			"src": "https://videojobs.s3-eu-west-1.amazonaws.com/meta/icon_180.png",
+			"sizes": "180x180",
+			"type": "image/png"
+		},
+		{
+			"src": "https://videojobs.s3-eu-west-1.amazonaws.com/meta/icon_192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "https://videojobs.s3-eu-west-1.amazonaws.com/meta/icon_512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	],
+	"background_color": "#0947A0",
+	"theme_color": "#0947A0",
+	"display": "standalone",
+	"orientation": "portrait",
+	"start_url": ".",
+	"scope": "/"
+}
